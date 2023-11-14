@@ -1,5 +1,5 @@
-# Resources
-## Training Manuals
-### Parachute Ranger School
-### Land Navigation School
-### Medical School
+## Resources
+### Training Manuals
+#### Parachute Ranger School
+#### Land Navigation School
+#### Medical School
